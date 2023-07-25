@@ -1,4 +1,4 @@
-# Hostel-Outpass-Management-usingPHP
+# Hostel-Outpass-Management
 
 ## Problem Statement
 Hostel outpass Management System is an idea inspired from the real world problem around us. It aids in resolving the outpass management mishandling. Hostelers in many residential colleges in India must obtain an outpass in order to leave the college premises. This is typically done physically using the old outdated pen and paper method, and it takes a lot of time because they must locate the warden at the appropriate time, stand in line, and then go through another process near the gate for security verification.
